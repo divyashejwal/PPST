@@ -5,7 +5,7 @@ int main() {
     int num;
     
     //Prompt user for input
-    cout<<"10&20:";
+    cout<<"15:";
     cin>>num;
     
     //check if the number is between 10 and 20(inclusive)
